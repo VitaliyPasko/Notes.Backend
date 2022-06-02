@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ya+lpLyBxCixApDgypj/B4fBUs0SrIL/QJw8f8Oi2VNjy2mh8SsZBe+5Wlj+E57nKtrRf1r5bWgbMM1C0S+uvg==",
+  "dgSpecHash": "Jt4rOZ/djqI9DYodeQU5Lh5NtIQC36fs75B0oWvBLIkDGnEh3BaT60Hmc+vB97323zA0xPBb+mQaKh7NQ7JHgQ==",
   "success": true,
   "projectFilePath": "/Users/vitalij/Desktop/Practis/Notes.Backend/Notes.Application/Notes.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/vitalij/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/vitalij/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/vitalij/.nuget/packages/microsoft.data.sqlite.core/5.0.17/microsoft.data.sqlite.core.5.0.17.nupkg.sha512",
     "/Users/vitalij/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/vitalij/.nuget/packages/microsoft.entityframeworkcore/5.0.17/microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
