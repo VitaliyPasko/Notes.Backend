@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Jt4rOZ/djqI9DYodeQU5Lh5NtIQC36fs75B0oWvBLIkDGnEh3BaT60Hmc+vB97323zA0xPBb+mQaKh7NQ7JHgQ==",
+  "dgSpecHash": "cOc+lXYBxDw9EHuezAJBCo7F1dqnfI9vebcJiqrU0ocWbtYq23ZxSwjtuBPqPBpTnu5CdaIiDvmLJifhN0BPGg==",
   "success": true,
   "projectFilePath": "/Users/vitalij/Desktop/Practis/Notes.Backend/Notes.Application/Notes.Application.csproj",
   "expectedPackageFiles": [
     "/Users/vitalij/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/vitalij/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/vitalij/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/vitalij/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/vitalij/.nuget/packages/microsoft.data.sqlite.core/5.0.17/microsoft.data.sqlite.core.5.0.17.nupkg.sha512",
     "/Users/vitalij/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
